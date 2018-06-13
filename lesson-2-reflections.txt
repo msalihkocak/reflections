@@ -23,4 +23,4 @@ Very nice result, to see it nicely.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
+Very very nice merging.
